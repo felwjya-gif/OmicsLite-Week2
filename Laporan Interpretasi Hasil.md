@@ -13,6 +13,7 @@ A total of 86 overlapping genes were identified between 17,860 CC-related genes,
 ![PPI Network](/string_hires_image(1).png)
 Figure 2. Protein-protein interaction (PPI) network of the overlapping genes, resulted in 86 nodes and 176 edges.
 
+![Tabel Hub](/Tabel_hub.png)
 Table 1. Topological analysis of the top 10 hub genes in the PPI network based on degree, betweeness centrality, ang closeness centrality.
 
 
