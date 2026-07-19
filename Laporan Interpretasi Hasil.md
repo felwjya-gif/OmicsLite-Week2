@@ -5,13 +5,12 @@
 Cervical cancer (CC) is the second most common gynecological malignancy worldwide among women. Conventional treatments, such as radiotherapy and chemotherapy, have been effective in improving patient survival. Nevertheless, long-term administration is often accompanied by serious side effects that may reduce a patient's quality of life. Naringenin is a naturally occurring dihydro-flavonoid often found in numerous fruits and medical plants. It is known for its anti-tumor properties, and has been extensively utilized in Traditional Chinese Medicine (TCM) to help treat cancer including CC. However, the molecular targets and the mechanisms responsible for its anti-cervical cancer effects remain unclear (Zhou et al. 2004). Therefore, this study aims to identify the main target of naringenin and its potential mechanism against CC.
 Naringenin ((2S)-5,7-dihydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one) was identified from PubChem, and its potential targets were predicted using SwissTargetPrediction. Cervical cancer (CC)-associated genes were collected from the OMIM and GeneCards databases. The overlapping genes between the predicted naringenin target and CC-related genes were identified as relevant potential targets. A protein-protein interaction (PPI) network was constructed using the STRING database with a high-confidence interaction score (confidence ≥ 0.700). Subsequently, the result was visualized and analyzed using Cytoscape. Furthermore, functional enrichment analysis was done by using Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analyses of the potential targets using STRING (false discovery rate: medium). Finally, the compound-target network, PPI network, and enriched KEGG pathways were integrated into a single comprehensive network using the Merge Network feature in Cytoscape.
 
-![Overlapping Genes](/Overlapping genes.png)
-
+![Overlapping Genes](/Overlappinggenes.png)
 Figure 1. Identification of 86 overlapping genes between 17,860 CC-related genes and 97 naringenin targets.
 
 A total of 86 overlapping genes were identified between 17,860 CC-related genes, and 97 predicted naringenin targets, representing the potential therapeutic targets of naringenin against CC. Eventhough the overlap constituted of only 0,5% of all CC-related genes, these included several well-established oncogenes and signaling molecules, such as PIK3CA, AKT1, MTOR, VEGFA, MET, SRC, MMP9, BCL2, and TERT, which are involved in tumor proliferation, apoptosis, angiogenesis, metastasis, and inflammatory responses. These findings suggest that naringenin potentially works through a multi-target mechanism to modulate multiple cancer-related signaling pathways.
 
-
+![PPI Network](/string_hires_image(1).png)
 Figure 2. Protein-protein interaction (PPI) network of the overlapping genes, resulted in 86 nodes and 176 edges.
 
 Table 1. Topological analysis of the top 10 hub genes in the PPI network based on degree, betweeness centrality, ang closeness centrality.
