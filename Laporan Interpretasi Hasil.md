@@ -30,7 +30,8 @@ Figure 4. Gene Ontology (GO, biological process and molecular process) and KEGG 
 
 Enrichment analysis (Figure 4) explained that the 86 overlapping targets were significantly enriched in biological processes related to epithelial cell migration, cellular stress response, and hypoxia, while molecular functions were primarily associated with protein kinase activity, nuclear receptor binding, and prostaglandin-endoperoxide synthase activity. Based on the KEGG pathway analysis, the 86 genes are significantly enriched in cancer-related pathways, including EGFR tyrosine kinase inhibitor resistance, endocrine resistance, proteoglycans in cancer, focal adhesion, VEGF signaling, and pathways in cancer. Overall, these findings reinforce the suggestion that naringenin may be involved in the signaling pathways and modulate the biological process in the tumor progression. These theoretical findings provide a theoretical basis for the future development of naringenin or new drugs for cervical cancer.
 
+**Workflow**
+![Workflow](/Workflow.png)
+
 **Reference:**
 Zhou J, Li H, Wu B, Zhu L, Huang Q, Guo Z, He Q, Wang L, Peng X & Guo T. 2024. Network Pharmacology Combined with Experimental Verification to Explore the Potential Mechanism of Naringenin in the Treatment of Cervical Cancer. Scientific Reports, 14 (1860). doi: https://doi.org/10.1038/s41598-024-52413-9.
-
-**Workflow**
