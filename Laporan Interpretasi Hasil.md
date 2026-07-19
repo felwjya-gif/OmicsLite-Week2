@@ -10,7 +10,7 @@ Figure 1. Identification of 86 overlapping genes between 17,860 CC-related genes
 
 A total of 86 overlapping genes were identified between 17,860 CC-related genes, and 97 predicted naringenin targets, representing the potential therapeutic targets of naringenin against CC. Eventhough the overlap constituted of only 0,5% of all CC-related genes, these included several well-established oncogenes and signaling molecules, such as PIK3CA, AKT1, MTOR, VEGFA, MET, SRC, MMP9, BCL2, and TERT, which are involved in tumor proliferation, apoptosis, angiogenesis, metastasis, and inflammatory responses. These findings suggest that naringenin potentially works through a multi-target mechanism to modulate multiple cancer-related signaling pathways.
 
-![PPI Network](/string_hires_image(1).png)
+![PPI Network](/string_hires_image1.png)
 Figure 2. Protein-protein interaction (PPI) network of the overlapping genes, resulted in 86 nodes and 176 edges.
 
 ![Tabel Hub](/Tabel_hub.png)
